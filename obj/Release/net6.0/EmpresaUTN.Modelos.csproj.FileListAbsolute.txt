@@ -1,0 +1,12 @@
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\bin\Release\net6.0\EmpresaUTN.Modelos.deps.json
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\bin\Release\net6.0\EmpresaUTN.Modelos.dll
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\bin\Release\net6.0\EmpresaUTN.Modelos.pdb
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.csproj.AssemblyReference.cache
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.AssemblyInfoInputs.cache
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.AssemblyInfo.cs
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.csproj.CoreCompileInputs.cache
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.dll
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\refint\EmpresaUTN.Modelos.dll
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\EmpresaUTN.Modelos.pdb
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.Modelos\obj\Release\net6.0\ref\EmpresaUTN.Modelos.dll
